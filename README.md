@@ -1,4 +1,4 @@
-# AI Clothes Changer: Seedream — Support
+# AI Clothes Changer — Support
 
 ## Contact
 
@@ -27,9 +27,9 @@ Your photos are processed securely and are not stored on our servers after gener
 
 ## Privacy Policy
 
-AI Clothes Changer: Seedream does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
+AI Clothes Changer does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
 
 ## Terms of Use
 
-By using AI Clothes Changer: Seedream, you agree to Apple's Standard EULA:
+By using AI Clothes Changer, you agree to Apple's Standard EULA:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
