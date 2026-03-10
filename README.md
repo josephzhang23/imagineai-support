@@ -1,4 +1,4 @@
-# AI Clothes Changer — Support
+# ImagineAI: AI Clothes Changer — Support
 
 ## Contact
 
@@ -10,7 +10,7 @@ We typically respond within 24 hours.
 
 ## FAQ
 
-### How does AI Clothes Changer work?
+### How does ImagineAI work?
 Describe the outfit you want — or provide reference images — and Seedream 5.0 AI transforms your photo instantly.
 
 ### What is Seedream 5.0?
@@ -27,9 +27,9 @@ Your photos are processed securely and are not stored on our servers after gener
 
 ## Privacy Policy
 
-AI Clothes Changer does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
+ImagineAI does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
 
 ## Terms of Use
 
-By using AI Clothes Changer, you agree to Apple's Standard EULA:
+By using ImagineAI, you agree to Apple's Standard EULA:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
