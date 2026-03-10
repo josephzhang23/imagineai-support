@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**AI Clothes Changer**
+**ImagineAI**
 **Last updated:** March 10, 2026
 
 ## Overview
 
-AI Clothes Changer ("the App") respects your privacy. This policy explains what data we collect, how we use it, and your rights.
+ImagineAI ("the App") respects your privacy. This policy explains what data we collect, how we use it, and your rights.
 
 ## Data We Collect
 
