@@ -1,4 +1,4 @@
-# ImagineAI: AI Clothes Changer — Support
+# ImagineAI — Support
 
 ## Contact
 
