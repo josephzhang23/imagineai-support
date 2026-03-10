@@ -4,7 +4,7 @@
 
 For questions, feedback, or support requests, please email:
 
-📧 **josephzhang0723@gmail.com**
+📧 **josephzhang.works@gmail.com**
 
 We typically respond within 24 hours.
 
