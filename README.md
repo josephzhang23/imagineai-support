@@ -1,4 +1,4 @@
-# ImagineAI — Support
+# AI Clothes — Support
 
 ## Contact
 
@@ -10,7 +10,7 @@ We typically respond within 24 hours.
 
 ## FAQ
 
-### How does ImagineAI work?
+### How does AI Clothes work?
 Describe the outfit you want — or provide reference images — and Seedream 5.0 AI transforms your photo instantly.
 
 ### What is Seedream 5.0?
@@ -27,9 +27,9 @@ Your photos are processed securely and are not stored on our servers after gener
 
 ## Privacy Policy
 
-ImagineAI does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
+AI Clothes does not collect personal data beyond what is required for account authentication and in-app purchases. Photos are uploaded for AI processing only and are not retained after the result is delivered.
 
 ## Terms of Use
 
-By using ImagineAI, you agree to Apple's Standard EULA:
+By using AI Clothes, you agree to Apple's Standard EULA:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
